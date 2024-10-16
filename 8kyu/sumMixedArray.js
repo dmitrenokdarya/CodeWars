@@ -3,7 +3,7 @@
 //Return your answer as a number.
 
 
-//Solution_1
+//Solution
 
 function sumMix(x) {
     let sum = 0;
